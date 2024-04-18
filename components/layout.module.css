@@ -1,0 +1,15 @@
+.container {
+    justify-content: space-around;
+    padding:  1rem;
+    margin: 3rem auto 6rem;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .backToHome {
+    margin: 3rem 0 0;
+  }
